@@ -346,3 +346,6 @@ In our example, the pruned tree achieved:
 When building your own decision tree models, remember that the goal is not to perfectly fit the training data but to create a model that makes reliable predictions on new, unseen data. Pre-pruning techniques like limiting tree depth are powerful tools for creating more generalizable models.
 
 By understanding the mathematical foundations of decision trees, applying appropriate evaluation metrics, and using pruning techniques, you can build models that strike the optimal balance between complexity and generalizability.
+
+
+https://poe.com/s/xGNvunA2EfZq1T8OxeUJ
